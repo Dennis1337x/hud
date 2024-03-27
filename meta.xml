@@ -1,0 +1,7 @@
+<meta>
+<script src="client.lua" type="client" cache="false"/>
+<file src="assets/fontawesomebrands.ttf"/>
+<file src="assets/fontawesome.ttf"/>
+<file src="assets/fontawesome2.otf"/>
+<file src="assets/sfbold.ttf"/>
+</meta>
